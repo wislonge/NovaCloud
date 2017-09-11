@@ -8,3 +8,5 @@ what shall we do (ArCloud)
 
 http://www.cnblogs.com/popsuper1982/p/3833250.html （libguestfs 手册）
 http://iceyao.blog.51cto.com/9426658/1566915（libguestfs实例）
+
+https://github.com/kimchi-project/kimchi（在自己的机器上建立下 ）
