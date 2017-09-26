@@ -1,0 +1,8 @@
+what libguestfs need
+
+@centos
+ncurses-devel pcre* augeas* file-devel yajl-devel supermin* ocaml-libguestfs ocaml-libguestfs-devel ocaml-findlib e2fslibs-dev gperf flex bison
+
+what supermin need
+
+e2fsprogs-devel.x86_64 glibc-static glibc-utils
