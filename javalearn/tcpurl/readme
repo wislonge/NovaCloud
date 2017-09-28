@@ -1,0 +1,4 @@
+# 1 configure java environment
+# 2 javac compile java ---> class
+# 3 jar cvf *.class ---> jar package
+# 4 java run the corresponding method
